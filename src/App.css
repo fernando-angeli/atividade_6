@@ -1,0 +1,15 @@
+:root {
+  font-family: Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu,
+    sans-serif;
+}
+
+body {
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("./assets/background.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.container {
+  padding: 10px 80px 80px 0;
+}
